@@ -28,3 +28,4 @@ MANIFEST
 
 
 embeddings.bin
+.venv/
